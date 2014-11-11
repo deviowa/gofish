@@ -1,0 +1,22 @@
+
+
+img {
+	transition: all .5s;
+
+	height: 75px;
+	margin-top:12px;
+
+	float: left;
+	
+}
+
+img.selected {
+	height: 100px;
+	margin-top:0;
+}
+
+
+.hand {
+	min-height: 100px;
+
+}
