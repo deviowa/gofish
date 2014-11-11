@@ -1,4 +1,11 @@
 
+form {
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	width: 300px;
+}
+
 
 img {
 	transition: all .5s;
