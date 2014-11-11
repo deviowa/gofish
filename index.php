@@ -56,10 +56,6 @@
 	}
 
 
-	function()
-
-
-
 	//generate HTML to show cards
 	for($i=0; $i<$NUM_PLAYERS; $i++){
 		$player_id = $i + 1;
